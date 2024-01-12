@@ -63,4 +63,3 @@ and more...
 
 <br></br>
 <small>The code for the client project is not open source, _permission has been given to me to share this information_</small>
-# MessianicTimesReadme
