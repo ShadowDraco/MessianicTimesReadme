@@ -2,7 +2,7 @@
 
 </div>
 
-<img src='./assets/timesArt.png' width='100%' alt='messianic times banner' />
+<img src='./timesArt.png' width='100%' alt='messianic times banner' />
 
 ## Fully upgraded and refactored platform for **all** the [Times'](messianictimes.com) web services
 
@@ -22,13 +22,13 @@
 ### What technology does it use?
 
 <a href='https://vercel.com'>
-    <img src='./assets/vercel.svg' width='200'>
+    <img src='./vercel.svg' width='200'>
 </a>
 <a href='https://nextjs.org'>
-    <img src='./assets/nextjs-2.svg' width="200">
+    <img src='./nextjs-2.svg' width="200">
 </a>
 <a href='https://sanity.io'>
-    <img src='./assets/sanity.svg' width='200'>
+    <img src='./sanity.svg' width='200'>
 </a>
 
 <br></br>
