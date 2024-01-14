@@ -6,6 +6,8 @@
 
 ## Fully upgraded and refactored platform for **all** the [Times'](messianictimes.com) web services
 
+## [Live (Unofficial release)](https://nextprisma-topaz.vercel.app/)
+
 ### What steps were taken?
 
 - **Rebuilt and re-branded** website with industry leading **NextJs** Framework ✔️
